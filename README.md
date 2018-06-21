@@ -1,9 +1,3 @@
-# hello-world
-New repository
+# Java Algorithms Practice
 
-Hi everyone,
-
-This is the repository I am using for personal notes.
-
-Thank you,
-Mike
+This repository contains my original coding samples with Java Algorithms challenges
